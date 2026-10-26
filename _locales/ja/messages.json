@@ -1,0 +1,11 @@
+{
+  "appName": {
+    "message": "Mobile View — モバイルシミュレーター & プレビュー"
+  },
+  "description": {
+    "message": "モバイルシミュレーター：どんなサイトも iPhone・Android・タブレットでプレビュー、最大5台同時。モバイル表示とデスクトップを並べ、レスポンシブ確認。"
+  },
+  "actionTitle": {
+    "message": "モバイル表示を開く"
+  }
+}

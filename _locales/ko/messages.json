@@ -1,0 +1,11 @@
+{
+  "appName": {
+    "message": "Mobile View — 모바일 시뮬레이터 및 미리보기"
+  },
+  "description": {
+    "message": "모바일 시뮬레이터: 어떤 사이트든 iPhone·Android·태블릿에서 미리보기, 최대 5대 동시. 모바일과 데스크톱을 나란히, 반응형 디자인 확인."
+  },
+  "actionTitle": {
+    "message": "모바일 보기 열기"
+  }
+}

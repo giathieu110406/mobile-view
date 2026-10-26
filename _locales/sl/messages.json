@@ -1,0 +1,11 @@
+{
+  "appName": {
+    "message": "Mobile View — mobilni simulator in predogled"
+  },
+  "description": {
+    "message": "Mobilni simulator: predogled strani na iPhonu, Androidu in tablicah — do 5 hkrati. Mobilni in namizni pogled, odziven dizajn."
+  },
+  "actionTitle": {
+    "message": "Odpri mobilni pogled"
+  }
+}

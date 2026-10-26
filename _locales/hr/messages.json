@@ -1,0 +1,11 @@
+{
+  "appName": {
+    "message": "Mobile View — mobilni simulator i pregled"
+  },
+  "description": {
+    "message": "Mobilni simulator: pregled stranica na iPhoneu, Androidu i tabletima — do 5. Mobilni i desktop prikaz, responzivni dizajn."
+  },
+  "actionTitle": {
+    "message": "Otvori mobilni prikaz"
+  }
+}

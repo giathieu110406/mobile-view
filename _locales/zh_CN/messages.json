@@ -1,0 +1,11 @@
+{
+  "appName": {
+    "message": "Mobile View — 移动模拟器与预览"
+  },
+  "description": {
+    "message": "移动端模拟器：在 iPhone、Android 和平板上预览任意网站——最多同时 5 台。移动视图与桌面并排，测试自适应设计。"
+  },
+  "actionTitle": {
+    "message": "打开移动预览"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "appName": {
+    "message": "Mobile View — Mobiilisimulaattori ja esikatselu"
+  },
+  "description": {
+    "message": "Mobiilisimulaattori: esikatsele sivustot iPhonella, Androidilla ja tableteilla — jopa 5 kerralla. Mobiili- ja työpöytänäkymä."
+  },
+  "actionTitle": {
+    "message": "Avaa mobiilinäkymä"
+  }
+}

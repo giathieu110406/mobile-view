@@ -1,0 +1,11 @@
+{
+  "appName": {
+    "message": "Mobile View — Mobilsimulator och förhandsvisning"
+  },
+  "description": {
+    "message": "Mobilsimulator: förhandsgranska valfri sida på iPhone, Android och surfplattor — upp till 5. Mobil- och datorvy, responsiv design."
+  },
+  "actionTitle": {
+    "message": "Öppna mobilvy"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "appName": {
+    "message": "Mobile View — 行動模擬器與預覽"
+  },
+  "description": {
+    "message": "行動模擬器：在 iPhone、Android 與平板上預覽任何網站——最多同時 5 台。行動與桌面檢視並排，測試自適應設計。"
+  },
+  "actionTitle": {
+    "message": "開啟行動檢視"
+  }
+}

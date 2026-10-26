@@ -1,0 +1,11 @@
+{
+  "appName": {
+    "message": "Mobile View — Mobilsimulator og forhåndsvisning"
+  },
+  "description": {
+    "message": "Mobilsimulator: forhåndsvis ethvert nettsted på iPhone, Android og nettbrett — opptil 5. Mobil- og datavisning, responsivt design."
+  },
+  "actionTitle": {
+    "message": "Åpne mobilvisning"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "appName": {
+    "message": "Mobile View — Simulador y vista previa móvil"
+  },
+  "description": {
+    "message": "Simulador móvil: previsualiza sitios en iPhone, Android y tablets — hasta 5 a la vez. Vista móvil y escritorio, diseño responsive."
+  },
+  "actionTitle": {
+    "message": "Abrir vista móvil"
+  }
+}

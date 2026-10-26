@@ -1,0 +1,11 @@
+{
+  "appName": {
+    "message": "Mobile View — Mobil szimulátor és előnézet"
+  },
+  "description": {
+    "message": "Mobilszimulátor: bármely webhely előnézete iPhone-on, Androidon és táblagépen — akár 5. Mobil- és asztali nézet, reszponzív dizájn."
+  },
+  "actionTitle": {
+    "message": "Mobil nézet megnyitása"
+  }
+}

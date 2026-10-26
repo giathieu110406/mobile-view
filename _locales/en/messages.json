@@ -1,0 +1,11 @@
+{
+  "appName": {
+    "message": "Mobile View — Mobile Simulator & Preview"
+  },
+  "description": {
+    "message": "Mobile simulator: preview any site on iPhone, Android & tablets — up to 5 at once. Mobile view + desktop live, responsive design."
+  },
+  "actionTitle": {
+    "message": "Open Mobile View"
+  }
+}

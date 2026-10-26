@@ -1,0 +1,11 @@
+{
+  "appName": {
+    "message": "Mobile View — Symulator i podgląd mobilny"
+  },
+  "description": {
+    "message": "Symulator mobilny: podgląd stron na iPhone, Android i tabletach — do 5 naraz. Widok mobilny obok desktopu, responsywny design."
+  },
+  "actionTitle": {
+    "message": "Otwórz widok mobilny"
+  }
+}

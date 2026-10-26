@@ -1,0 +1,11 @@
+{
+  "appName": {
+    "message": "Mobile View — Simulateur et aperçu mobile"
+  },
+  "description": {
+    "message": "Simulateur mobile : aperçu de tout site sur iPhone, Android et tablettes — jusqu’à 5. Vue mobile et bureau, design responsive."
+  },
+  "actionTitle": {
+    "message": "Ouvrir la vue mobile"
+  }
+}

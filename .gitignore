@@ -1,0 +1,8 @@
+.dev-profile/
+.test-profile/
+node_modules/
+*.log
+*.png
+
+.playwright-cli/
+.playwright/
